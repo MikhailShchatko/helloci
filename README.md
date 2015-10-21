@@ -1,4 +1,4 @@
-Hello, CI! test commit
+Hello, CI! test commit2
 =======
 
 Test projects for "Hello, CI" training
